@@ -1,18 +1,4 @@
-# todomanagement
+# 할 일 관리(To Do Management)
 
-> Project for learning Vue.js
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> Do it 시리즈 책을 읽으며 따라 만든 프로젝트입니다.
+> 책 내용 이외에 미디어쿼리를 적용하고 gh-pages를 이용한 배포까지 완료했습니다.
